@@ -1,5 +1,5 @@
 College App
-College App is an app for college students to resolve their query on fee submission . It provides Login Page, Contact Page and logout Page.
+College App is an app for college students to resolve their query . It provides Login Page, Contact Page and logout Page.
 
 Technologies Used
 -Frontend: HTML, CSS, JavaScript
